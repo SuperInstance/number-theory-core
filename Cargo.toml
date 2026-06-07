@@ -1,0 +1,9 @@
+[package]
+name = "number-theory-core"
+version = "0.1.0"
+edition = "2021"
+description = "Core number theory algorithms: prime sieve, Miller-Rabin test, factorization, divisor functions, and Möbius function"
+license = "MIT"
+repository = "https://github.com/SuperInstance/number-theory-core"
+keywords = ["number-theory", "primes", "factorization", "miller-rabin", "math"]
+categories = ["mathematics", "algorithms"]
